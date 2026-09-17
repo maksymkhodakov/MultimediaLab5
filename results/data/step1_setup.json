@@ -1,0 +1,18 @@
+{
+  "ultralytics_version": "8.4.155",
+  "model_weights": "yolov8n.pt",
+  "num_classes": 80,
+  "example_classes": [
+    "person",
+    "bicycle",
+    "car",
+    "motorcycle",
+    "airplane",
+    "bus",
+    "train",
+    "truck",
+    "boat",
+    "traffic light"
+  ],
+  "demo_image": "/Users/maksymkhodakov/PycharmProjects/MultimediaLab5/results/images/bus.jpg"
+}

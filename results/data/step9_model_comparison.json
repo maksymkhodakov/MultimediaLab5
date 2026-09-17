@@ -1,0 +1,20 @@
+{
+  "yolov8n.pt": {
+    "weights": "yolov8n.pt",
+    "n_parameters": 3157200,
+    "precision": 0.64,
+    "recall": 0.537,
+    "map50": 0.603,
+    "map50_95": 0.444,
+    "fps": 27.7
+  },
+  "yolov8s.pt": {
+    "weights": "yolov8s.pt",
+    "n_parameters": 11166560,
+    "precision": 0.797,
+    "recall": 0.664,
+    "map50": 0.758,
+    "map50_95": 0.586,
+    "fps": 14.1
+  }
+}

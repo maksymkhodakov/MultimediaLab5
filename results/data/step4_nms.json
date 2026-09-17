@@ -1,0 +1,16 @@
+{
+  "synthetic_example": {
+    "before": 5,
+    "after": 2,
+    "kept_indices": [
+      0,
+      3
+    ]
+  },
+  "builtin_nms_by_iou_threshold": {
+    "0.3": 6,
+    "0.5": 6,
+    "0.7": 6,
+    "0.9": 9
+  }
+}

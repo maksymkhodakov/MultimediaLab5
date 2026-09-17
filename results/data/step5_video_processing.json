@@ -1,0 +1,14 @@
+{
+  "source_image": "zidane.jpg",
+  "effect": "zoom-in (Ken Burns), центр кадру",
+  "n_frames": 30,
+  "elapsed_seconds": 1.05,
+  "processing_fps": 28.6,
+  "total_detections": 122,
+  "output_video": "/Users/maksymkhodakov/PycharmProjects/MultimediaLab5/results/video/synthetic_detection.mp4",
+  "screenshot_frames": [
+    "/Users/maksymkhodakov/PycharmProjects/MultimediaLab5/results/images/step5_video_frame_00.jpg",
+    "/Users/maksymkhodakov/PycharmProjects/MultimediaLab5/results/images/step5_video_frame_15.jpg",
+    "/Users/maksymkhodakov/PycharmProjects/MultimediaLab5/results/images/step5_video_frame_29.jpg"
+  ]
+}

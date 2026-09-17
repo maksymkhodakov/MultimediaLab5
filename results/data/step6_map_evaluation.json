@@ -1,0 +1,50 @@
+{
+  "precision": 0.64,
+  "recall": 0.537,
+  "map50": 0.603,
+  "map50_95": 0.444,
+  "worst_classes": [
+    {
+      "class": "cell phone",
+      "ap50": 0.05
+    },
+    {
+      "class": "mouse",
+      "ap50": 0.055
+    },
+    {
+      "class": "banana",
+      "ap50": 0.124
+    },
+    {
+      "class": "handbag",
+      "ap50": 0.161
+    },
+    {
+      "class": "sink",
+      "ap50": 0.178
+    }
+  ],
+  "best_classes": [
+    {
+      "class": "pizza",
+      "ap50": 0.995
+    },
+    {
+      "class": "orange",
+      "ap50": 0.995
+    },
+    {
+      "class": "skis",
+      "ap50": 0.995
+    },
+    {
+      "class": "zebra",
+      "ap50": 0.995
+    },
+    {
+      "class": "bear",
+      "ap50": 0.995
+    }
+  ]
+}
